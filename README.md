@@ -1,6 +1,6 @@
 # Sweet Shop Flutter App
 
-This Flutter application is a sweet shop app that allows users to browse various sweets, view details of each sweet, and manage their cart.
+This Flutter application is a sweet shop app that allows users to browse various of Items, view details of each Items, and manage their cart.
 
 ## Installation
 
